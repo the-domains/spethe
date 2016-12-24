@@ -4,9 +4,9 @@
         <description><![CDATA[Hand-picked content from people & professionals across world]]></description>
         <link>http://spethe.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Dec 2016 13:47:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2016 14:04:14 GMT</lastBuildDate>
         <atom:link href="http://spethe.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Dec 2016 13:47:22 GMT</pubDate>
+        <pubDate>Sat, 24 Dec 2016 14:04:11 GMT</pubDate>
         <item>
             <title><![CDATA[Along the Autism Spectrum, a Path Through Campus Life]]></title>
             <description><![CDATA[<article><h1>Along the Autism Spectrum, a Path Through Campus Life</h1><p>But while these young adults have opportunities that could not have been imagined had they been born even a decade earlier, their success in college is still a long shot. Increasingly, schools are realizing that most of these students will not graduate without comprehensive support like the Kelly Autism Program at Western Kentucky.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/589b5fb807da7ab6fca1b22e72faae1e/noop.jpg?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F11%2F19%2Fscience%2F20AUTISM14%2F20AUTISM14-facebookJumbo.jpg"></article>]]></description>
@@ -43,6 +43,13 @@
             <pubDate>Sat, 24 Dec 2016 08:20:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Microsoft is using machine learning to help fight blindness]]></title>
+            <description><![CDATA[<article><h1>Microsoft is using machine learning to help fight blindness</h1><p>Though robots and artificial intelligence may not replace our doctors entirely in the foreseeable future, they are already starting to make a difference. Microsoft is now using machine learning and artificial intelligence to help doctors in India to diagnoze and treat eye diseases.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3e0a4419df43310a3e56c52a307e4cf9/noop.png?input=http%3A%2F%2Fi.amz.mshcdn.com%2FQltgt6e1eyjPcbYD9J7RVIQpCWo%3D%2F1200x630%2F2016%252F12%252F19%252Ffd%252Fbb487ce931a34ec0a7bd87c19bf7b9e8.3d22a.png"></article>]]></description>
+            <link>http://mashable.com/2016/12/19/microsoft-machine-learning-artificial-intelligence-blindness-india/?platform=hootsuite</link>
+            <guid isPermaLink="false">c81a6028-a16d-463e-ad95-043a557747b7</guid>
+            <pubDate>Sat, 24 Dec 2016 14:04:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[EU ready to set laws for accessibility testing | QA Financial]]></title>
             <description><![CDATA[<article><h1>EU ready to set laws for accessibility testing | QA Financial</h1><p>The EU parliament is drafting a directive that will force private sector companies to accommodate disabled people when offering their goods and services. It has already adopted a directive requiring all public sector websites to adhere to accessibility guidelines.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/57f01799366a8150999dd545d5dfeec7/noop.jpg?input=http%3A%2F%2Fqa-financial.com%2Fwp-content%2Fuploads%2F2016%2F12%2Fbarclays.jpg"></article>]]></description>
             <link>http://qa-financial.com/news/features-interviews/eu-ready-set-laws-accessibility-testing/?platform=hootsuite</link>
@@ -69,13 +76,6 @@
             <link>http://mashable.com/2016/12/14/ibm-watson-als-research/#.cDcB9h0gGqa?platform=hootsuite</link>
             <guid isPermaLink="false">c263f1ad-1eab-4974-9d6d-02a4c903dbda</guid>
             <pubDate>Sat, 24 Dec 2016 13:36:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IBM Accessibility - Aging]]></title>
-            <description><![CDATA[<article><h1>IBM Accessibility - Aging</h1><p>Description</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/53699c88cf6a915ab20021eb9855b141/noop.jpg?input=http%3A%2F%2Fwww-03.ibm.com%2Fable%2Faging%2Fapple-ibm-apps.jpg"></article>]]></description>
-            <link>http://www-03.ibm.com/able/aging/index.html</link>
-            <guid isPermaLink="false">58da16e0-068f-4604-b976-f078e24bab4f</guid>
-            <pubDate>Sat, 24 Dec 2016 13:31:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
