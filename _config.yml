@@ -1,9 +1,11 @@
-typography_spectrum: 0.6293705013606439
+typography_spectrum: 0.2619848186310639
+content_rating:
+  adult: false
 color:
-  brandStrength: 0.9791572872335368
-  lightness: 0.8786977118418764
-  saturation: 0.9329114061819003
-  rhythmicContrast: 0.730318698762538
+  brandStrength: 0.22033872359948656
+  lightness: 0.7578325502638991
+  saturation: 0.4098477723653253
+  rhythmicContrast: 0.9891970539767073
   brandColors:
     - '#2E0927'
     - '#D90000'
@@ -11,25 +13,21 @@ color:
     - '#FF8C00'
     - '#04756F'
 github: true
-layout_spectrum: 0.06756640510522935
+layout_spectrum: 0.4344212548458709
 author:
-  name: Blessin Varkey
-  email: blessinvarkey@gmail.com
-  url: www.spethe.com
+  name: Spethe 2016
+  email: ''
+  url: ''
 logo: null
 name: Spethe
-navigation:
-  - name: Lifestyle
-    url: 'http://www.stories.spethe.com/category/lifestyle/'
-    type: external
-  - name: Research
-    url: 'http://www.stories.spethe.com/category/research/'
-    type: external
+url: 'http://www.spethe.com/'
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e693350-1a60-454b-b2e7-7bbe5ba7418d.jpg
 title: Hand-picked disability content from people & professionals across world
 content: []
-description: ''
+description: >-
+  Enabling people with disabilities, elder care & the community with curated
+  content
 purpose:
   - type: contact
     url: 'mailto:spethe.network@gmail.com'
