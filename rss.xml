@@ -4,9 +4,9 @@
         <description><![CDATA[Hand-picked content from people & professionals across world]]></description>
         <link>http://spethe.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Dec 2016 14:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2016 14:41:09 GMT</lastBuildDate>
         <atom:link href="http://spethe.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Dec 2016 14:39:51 GMT</pubDate>
+        <pubDate>Sat, 24 Dec 2016 14:41:08 GMT</pubDate>
         <item>
             <title><![CDATA[Along the Autism Spectrum, a Path Through Campus Life]]></title>
             <description><![CDATA[<article><h1>Along the Autism Spectrum, a Path Through Campus Life</h1><p>But while these young adults have opportunities that could not have been imagined had they been born even a decade earlier, their success in college is still a long shot. Increasingly, schools are realizing that most of these students will not graduate without comprehensive support like the Kelly Autism Program at Western Kentucky.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/589b5fb807da7ab6fca1b22e72faae1e/noop.jpg?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F11%2F19%2Fscience%2F20AUTISM14%2F20AUTISM14-facebookJumbo.jpg"></article>]]></description>
@@ -43,6 +43,13 @@
             <pubDate>Sat, 24 Dec 2016 08:20:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Google BrailleBack - Android Apps on Google Play]]></title>
+            <description><![CDATA[<article><h1>Google BrailleBack - Android Apps on Google Play</h1><p>Use your braille display with your Android device</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/aa06b34a8ff70440b3e5d17dc6face9f/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2F0-BzaWtxoAnsBjQ_wzUcKxyF07XE7v2Kkg1ogPVUdzmQpvaz118uHQEGU6BdtzJuzfo%3Dh556"></article>]]></description>
+            <link>https://play.google.com/store/apps/details?id=com.googlecode.eyesfree.brailleback</link>
+            <guid isPermaLink="false">f1e20a5e-b3c0-4d18-a577-548f7f8366fe</guid>
+            <pubDate>Sat, 24 Dec 2016 14:41:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Anyone can do it! Easy ways to evaluate your App's Accessibility - Google I/O Schedule]]></title>
             <description><![CDATA[<article><h1>Anyone can do it! Easy ways to evaluate your App's Accessibility - Google I/O Schedule</h1><p>One in 5 people in the U.S. will have a disability in their lives. They want to be productive, creative and of course -- use your app. Technology has made more experiences, connections, and products available to people with disabilities but there is still room for improvement.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5804ddb5f7f0ef0eb08594f07ba2603c/noop.jpg?input=https%3A%2F%2Fstorage.googleapis.com%2Fio2015-data.appspot.com%2Fimages%2Fsessions%2F__w-200-400-600-800-1000__%2F9259a197-b6d4-e411-b87f-00155d5066d7.jpg"></article>]]></description>
             <link>https://events.google.com/io2015/schedule?filters=Accessibility%2CSandbox%20talks&amp;sid=9259a197-b6d4-e411-b87f-00155d5066d7#day1/9259a197-b6d4-e411-b87f-00155d5066d7</link>
@@ -69,13 +76,6 @@
             <link>http://www.forbes.com/sites/ibm/2016/12/08/age-matters-how-to-prepare-for-a-billion-people-over-the-age-of-65-in-the-u-s/#4a102ef66996</link>
             <guid isPermaLink="false">6feae795-2c35-49bf-8fbd-e7c9ecc85eb0</guid>
             <pubDate>Sat, 24 Dec 2016 14:21:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Accessibility in OneNote 2016 for Mac - OneNote for Mac]]></title>
-            <description><![CDATA[<article><h1>Accessibility in OneNote 2016 for Mac - OneNote for Mac</h1><p>You can turn on accessibility features in OneNote for Mac to hear text read to you and to take advantage of other accessibility options.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9a6d797842943b24e1eb29a7b0fef5a3ec6e987.png"></article>]]></description>
-            <link>https://support.office.com/en-us/article/Accessibility-in-OneNote-2016-for-Mac-cbfcedce-4ed7-4e6d-9b18-af1fed954e5c</link>
-            <guid isPermaLink="false">bd8f474a-9530-4215-98ac-de8a82425b05</guid>
-            <pubDate>Sat, 24 Dec 2016 14:10:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
