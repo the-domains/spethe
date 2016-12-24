@@ -5,8 +5,8 @@ description: >-
   is acceptable to most stakeholders, for scientific writing this phrase often
   does not convey enough information. In writing, it is important to note
   characteristics of the disabled participants.
-dateModified: '2016-12-24T08:04:23.353Z'
-datePublished: '2016-12-24T08:04:25.343Z'
+dateModified: '2016-12-24T08:19:56.658Z'
+datePublished: '2016-12-24T08:20:02.549Z'
 title: Vision terminology
 author: []
 publisher:
