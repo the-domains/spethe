@@ -8,16 +8,16 @@ description: >-
   discussing a cultural issue. The use of deaf with the lower-case spelling more
   typically refers to a hearing loss and is appropriate if cultural issues are
   not part of the discussion topic.
-dateModified: '2016-12-24T08:19:04.741Z'
-datePublished: '2016-12-24T08:19:06.807Z'
+dateModified: '2016-12-24T08:19:56.658Z'
+datePublished: '2016-12-24T08:20:02.546Z'
 title: 'Terms to avoid:'
 author:
   - name: Spethe
 publisher: {}
 via: {}
+sourcePath: _posts/2016-12-24-terms-to-avoid.md
 starred: false
 datePublishedOriginal: '2016-12-24T08:19:06.807Z'
-sourcePath: _posts/2016-12-24-terms-to-avoid.md
 _type: Blurb
 
 ---
