@@ -12,6 +12,10 @@ color:
     - '#04756F'
 github: true
 layout_spectrum: 0.06756640510522935
+author:
+  name: Blessin Varkey
+  email: blessinvarkey@gmail.com
+  url: www.spethe.com
 logo: null
 name: Spethe
 navigation:
