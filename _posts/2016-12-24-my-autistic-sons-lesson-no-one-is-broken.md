@@ -25,8 +25,8 @@ app_links: []
 isBasedOnUrl: >-
   http://well.blogs.nytimes.com/2016/07/15/my-autistic-sons-lesson-no-one-is-broken/
 title: 'My Autistic Son''s Lesson: No One Is Broken'
-datePublished: '2016-12-24T08:20:02.551Z'
-dateModified: '2016-12-24T08:19:56.658Z'
+datePublished: '2016-12-24T15:05:07.447Z'
+dateModified: '2016-12-24T15:05:00.054Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-24-my-autistic-sons-lesson-no-one-is-broken.md
