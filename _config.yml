@@ -1,5 +1,6 @@
-layout_spectrum: 0.15468982617361562
 typography_spectrum: 0.27579541839779087
+content_rating:
+  adult: false
 color:
   brandStrength: 0.23528246387931528
   lightness: 0.1480662574964843
@@ -11,9 +12,8 @@ color:
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
-content_rating:
-  adult: false
 github: true
+layout_spectrum: 0.15468982617361562
 author:
   name: Spethe 2016
   email: ''
@@ -23,7 +23,9 @@ name: Spethe
 url: 'http://spethe.com'
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e693350-1a60-454b-b2e7-7bbe5ba7418d.jpg
-title: Hand-picked content from people & professionals across world
+title: >-
+  Hand-picked content on Accessibility & Assistive Technologies from across
+  world
 content: []
 description: >-
   Enabling people with disabilities, elderly & the community with curated
