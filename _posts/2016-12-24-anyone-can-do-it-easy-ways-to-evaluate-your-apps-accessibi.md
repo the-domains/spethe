@@ -29,14 +29,14 @@ isBasedOnUrl: >-
 title: >-
   Anyone can do it! Easy ways to evaluate your App's Accessibility - Google I/O
   Schedule
-datePublished: '2016-12-24T14:39:50.239Z'
-dateModified: '2016-12-24T14:38:24.266Z'
-datePublishedOriginal: '2016-12-24T14:39:50.239Z'
+datePublished: '2016-12-24T15:06:58.174Z'
+dateModified: '2016-12-24T15:06:49.298Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2016-12-24-anyone-can-do-it-easy-ways-to-evaluate-your-apps-accessibi.md
+starred: false
+datePublishedOriginal: '2016-12-24T14:39:50.239Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
