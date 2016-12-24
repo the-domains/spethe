@@ -4,9 +4,9 @@
         <description><![CDATA[Hand-picked content from people & professionals across world]]></description>
         <link>http://spethe.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Dec 2016 14:04:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2016 14:06:22 GMT</lastBuildDate>
         <atom:link href="http://spethe.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Dec 2016 14:04:11 GMT</pubDate>
+        <pubDate>Sat, 24 Dec 2016 14:06:21 GMT</pubDate>
         <item>
             <title><![CDATA[Along the Autism Spectrum, a Path Through Campus Life]]></title>
             <description><![CDATA[<article><h1>Along the Autism Spectrum, a Path Through Campus Life</h1><p>But while these young adults have opportunities that could not have been imagined had they been born even a decade earlier, their success in college is still a long shot. Increasingly, schools are realizing that most of these students will not graduate without comprehensive support like the Kelly Autism Program at Western Kentucky.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/589b5fb807da7ab6fca1b22e72faae1e/noop.jpg?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F11%2F19%2Fscience%2F20AUTISM14%2F20AUTISM14-facebookJumbo.jpg"></article>]]></description>
@@ -43,6 +43,13 @@
             <pubDate>Sat, 24 Dec 2016 08:20:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Using AI, Microsoft hopes to treat blindness]]></title>
+            <description><![CDATA[<article><h1>Using AI, Microsoft hopes to treat blindness</h1><p>Microsoft India today has launched Microsoft Intelligent Network for Eyecare (MINE) in collaboration with L V Prasad Eye Institute. MINE is a global network of research and academic institutions which have come together to use artificial intelligence to help eliminate avoidable blindness and also to deliver eyecare services worldwide.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c9606320597ed6e500d6f14d0aac9788/noop.jpg?input=http%3A%2F%2Fmedia2.intoday.in%2Findiatoday%2Fimages%2Fstories%2Frtx166zq_559_121916035107.jpg"></article>]]></description>
+            <link>http://indiatoday.intoday.in/technology/story/using-ai-microsoft-hopes-to-treat-blindness/1/838055.html</link>
+            <guid isPermaLink="false">ed4c4819-0004-4aaa-976c-8bf97b1c73be</guid>
+            <pubDate>Sat, 24 Dec 2016 14:05:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Microsoft is using machine learning to help fight blindness]]></title>
             <description><![CDATA[<article><h1>Microsoft is using machine learning to help fight blindness</h1><p>Though robots and artificial intelligence may not replace our doctors entirely in the foreseeable future, they are already starting to make a difference. Microsoft is now using machine learning and artificial intelligence to help doctors in India to diagnoze and treat eye diseases.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3e0a4419df43310a3e56c52a307e4cf9/noop.png?input=http%3A%2F%2Fi.amz.mshcdn.com%2FQltgt6e1eyjPcbYD9J7RVIQpCWo%3D%2F1200x630%2F2016%252F12%252F19%252Ffd%252Fbb487ce931a34ec0a7bd87c19bf7b9e8.3d22a.png"></article>]]></description>
             <link>http://mashable.com/2016/12/19/microsoft-machine-learning-artificial-intelligence-blindness-india/?platform=hootsuite</link>
@@ -69,13 +76,6 @@
             <link>http://www.healthcareitnews.com/news/ibm-rice-university-working-watson-powered-robot-help-elderly?platform=hootsuite</link>
             <guid isPermaLink="false">eef25e30-0720-401a-bb91-9ba13cf78400</guid>
             <pubDate>Sat, 24 Dec 2016 13:40:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IBM's Watson supercomputer discovers 5 new genes linked to ALS]]></title>
-            <description><![CDATA[<article><h1>IBM's Watson supercomputer discovers 5 new genes linked to ALS</h1><p>IBM Watson is known for its work in identifying cancer treatments and beating contestants on Jeopardy! But now the computing system has expertise in a new area of research: neuroscience. Watson discovered five genes linked to ALS, sometimes called Lou Gehrig's disease, IBM announced on Wednesday.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/22990a4c5ef8cb011bc2980e439d2ca2/noop.jpg?input=http%3A%2F%2Fi.amz.mshcdn.com%2FKSEYBSD_pmOuEU-vZXsYautSR1w%3D%2F1200x630%2F2016%252F12%252F14%252F6c%252Fa5c71d6c814c4c0bb6c547068c74fcce.196d7.jpg"></article>]]></description>
-            <link>http://mashable.com/2016/12/14/ibm-watson-als-research/#.cDcB9h0gGqa?platform=hootsuite</link>
-            <guid isPermaLink="false">c263f1ad-1eab-4974-9d6d-02a4c903dbda</guid>
-            <pubDate>Sat, 24 Dec 2016 13:36:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
