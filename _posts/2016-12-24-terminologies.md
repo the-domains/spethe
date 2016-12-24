@@ -1,25 +1,28 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2016-12-24T07:27:14.835Z'
-datePublished: '2016-12-24T07:27:16.100Z'
-title: Terminologies
+description: >-
+  The phrase ‘visually impaired’ is commonly used. While this is a phrase that
+  is acceptable to most stakeholders, for scientific writing this phrase often
+  does not convey enough information. In writing, it is important to note
+  characteristics of the disabled participants.
+dateModified: '2016-12-24T08:04:23.353Z'
+datePublished: '2016-12-24T08:04:25.343Z'
+title: Vision terminology
 author: []
-publisher: {}
+publisher:
+  name: seanbrown
 via: {}
 hasPage: true
+sourcePath: _posts/2016-12-24-terminologies.md
 starred: false
 datePublishedOriginal: '2016-12-24T07:27:16.100Z'
-sourcePath: _posts/2016-12-24-terminologies.md
 url: terminologies/index.html
 _type: Article
 
 ---
-# Terminologies
+![The phrase ‘visually impaired’ is commonly used. While this is a phrase that is acceptable to most stakeholders, for scientific writing this phrase often does not convey enough information. In writing, it is important to note characteristics of the disabled participants.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a9d1ee6-f2f8-4da2-bd72-622454571fca.jpg)
 
 # Vision terminology
-
-### Spethe team
 
 ---
 
