@@ -1,17 +1,17 @@
-typography_spectrum: 0.7191158660027281
+layout_spectrum: 0.06756640510522935
+typography_spectrum: 0.6293705013606439
 color:
-  brandStrength: 0.4151222050050734
-  lightness: 0.6439998128673634
-  saturation: 0.8759016188491358
-  rhythmicContrast: 0.0833405763373738
+  brandStrength: 0.9791572872335368
+  lightness: 0.8786977118418764
+  saturation: 0.9329114061819003
+  rhythmicContrast: 0.730318698762538
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 github: true
-layout_spectrum: 0.2758009746290817
 logo: null
 name: Spethe
 navigation:
