@@ -27,14 +27,14 @@ isBasedOnUrl: 'https://blog.google/topics/google-org/creating-world-that-works-f
 title: >-
   Creating a world that works for everyone with Google Impact Challenge:
   Disabilities
-datePublished: '2016-12-24T14:35:38.721Z'
-dateModified: '2016-12-24T14:35:05.097Z'
-datePublishedOriginal: '2016-12-24T14:35:38.721Z'
+datePublished: '2016-12-24T15:06:58.185Z'
+dateModified: '2016-12-24T15:06:49.298Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2016-12-24-creating-a-world-that-works-for-everyone-with-google-impact.md
+starred: false
+datePublishedOriginal: '2016-12-24T14:35:38.721Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
