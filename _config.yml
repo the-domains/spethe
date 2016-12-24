@@ -1,19 +1,19 @@
-typography_spectrum: 0.2619848186310639
+layout_spectrum: 0.15468982617361562
+typography_spectrum: 0.27579541839779087
+color:
+  brandStrength: 0.23528246387931528
+  lightness: 0.1480662574964843
+  saturation: 0.7923070585033349
+  rhythmicContrast: 0.8909640683996316
+  brandColors:
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
 content_rating:
   adult: false
-color:
-  brandStrength: 0.22033872359948656
-  lightness: 0.7578325502638991
-  saturation: 0.4098477723653253
-  rhythmicContrast: 0.9891970539767073
-  brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
 github: true
-layout_spectrum: 0.4344212548458709
 author:
   name: Spethe 2016
   email: ''
