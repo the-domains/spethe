@@ -53,8 +53,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://medium.com/waymo/scenes-from-the-street-5bb77046d7ce#.xkv9srio6'
 title: On the road with self-driving car user number one - Waymo
-datePublished: '2016-12-27T06:33:55.323Z'
-dateModified: '2016-12-27T06:33:47.475Z'
+datePublished: '2016-12-27T06:40:16.974Z'
+dateModified: '2016-12-27T06:40:10.870Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-24-on-the-road-with-self-driving-car-user-number-one-waymo.md
