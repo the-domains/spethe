@@ -26,14 +26,14 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.novoda.com/blog/accessibilitools/'
 title: Making your Android Apps More Inclusive with accessibilitools
-datePublished: '2016-12-27T06:14:33.369Z'
-dateModified: '2016-12-27T06:13:48.089Z'
-datePublishedOriginal: '2016-12-27T06:14:33.369Z'
+datePublished: '2016-12-27T06:28:13.820Z'
+dateModified: '2016-12-27T06:28:06.974Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2016-12-27-making-your-android-apps-more-inclusive-with-accessibilitool.md
+starred: false
+datePublishedOriginal: '2016-12-27T06:14:33.369Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
