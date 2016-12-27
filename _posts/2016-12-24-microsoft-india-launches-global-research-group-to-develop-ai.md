@@ -26,8 +26,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.mobihealthnews.com/content/microsoft-india-launches-global-research-group-develop-ai-powered-eye-care
 title: Microsoft India launches global research group to develop AI-powered eye care
-datePublished: '2016-12-27T06:28:13.764Z'
-dateModified: '2016-12-27T06:28:06.974Z'
+datePublished: '2016-12-27T06:30:29.661Z'
+dateModified: '2016-12-27T06:30:25.190Z'
 via: {}
 inFeed: true
 sourcePath: >-
