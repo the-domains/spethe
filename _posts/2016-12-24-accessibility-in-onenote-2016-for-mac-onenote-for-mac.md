@@ -25,8 +25,8 @@ app_links: []
 isBasedOnUrl: >-
   https://support.office.com/en-us/article/Accessibility-in-OneNote-2016-for-Mac-cbfcedce-4ed7-4e6d-9b18-af1fed954e5c
 title: Accessibility in OneNote 2016 for Mac - OneNote for Mac
-datePublished: '2016-12-27T06:45:49.076Z'
-dateModified: '2016-12-27T06:45:40.801Z'
+datePublished: '2016-12-27T06:49:11.919Z'
+dateModified: '2016-12-27T06:49:05.810Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-24-accessibility-in-onenote-2016-for-mac-onenote-for-mac.md
