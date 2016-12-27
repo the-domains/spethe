@@ -27,8 +27,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://blog.google/products/android/building-more-accessible-technology/'
 title: Building more accessible technology
-datePublished: '2016-12-27T04:49:41.352Z'
-dateModified: '2016-12-27T04:49:37.153Z'
+datePublished: '2016-12-27T04:53:28.399Z'
+dateModified: '2016-12-27T04:53:21.629Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-24-building-more-accessible-technology.md
