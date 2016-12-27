@@ -29,8 +29,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.stories.spethe.com/autism/what-is-autism/'
 title: What is Autism?
-datePublished: '2016-12-27T04:46:11.754Z'
-dateModified: '2016-12-27T04:46:00.624Z'
+datePublished: '2016-12-27T04:56:51.564Z'
+dateModified: '2016-12-27T04:56:47.278Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-23-what-is-autism.md
