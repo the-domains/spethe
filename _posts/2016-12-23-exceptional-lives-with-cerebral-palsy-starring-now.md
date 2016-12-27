@@ -31,8 +31,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.stories.spethe.com/lifestyle/exceptional-lives-with-cerebral-palsy-starring-now/
 title: 'Exceptional Lives With Cerebral Palsy: Starring Now'
-datePublished: '2016-12-27T04:46:11.757Z'
-dateModified: '2016-12-27T04:46:00.624Z'
+datePublished: '2016-12-27T04:56:51.573Z'
+dateModified: '2016-12-27T04:56:47.278Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-23-exceptional-lives-with-cerebral-palsy-starring-now.md
