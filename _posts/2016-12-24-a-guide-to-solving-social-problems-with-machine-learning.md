@@ -28,8 +28,8 @@ app_links: []
 isBasedOnUrl: >-
   https://hbr.org/2016/12/a-guide-to-solving-social-problems-with-machine-learning
 title: A Guide to Solving Social Problems with Machine Learning
-datePublished: '2016-12-27T06:43:28.114Z'
-dateModified: '2016-12-27T06:43:24.349Z'
+datePublished: '2016-12-27T06:45:48.991Z'
+dateModified: '2016-12-27T06:45:40.801Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-24-a-guide-to-solving-social-problems-with-machine-learning.md
