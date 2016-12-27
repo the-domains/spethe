@@ -4,9 +4,9 @@
         <description><![CDATA[Hand-picked content on Accessibility & Assistive Technologies from across the world]]></description>
         <link>http://spethe.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Dec 2016 06:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2016 06:25:22 GMT</lastBuildDate>
         <atom:link href="http://spethe.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Dec 2016 06:24:28 GMT</pubDate>
+        <pubDate>Tue, 27 Dec 2016 06:25:21 GMT</pubDate>
         <item>
             <title><![CDATA[On the road with self-driving car user number one - Waymo]]></title>
             <description><![CDATA[<article><h1>On the road with self-driving car user number one - Waymo</h1><p>Back in September of 2015, I called my old friend Steve Mahan to invite him on a drive unlike any we'd done before. Steve, who is legally blind, was no stranger to the Google self-driving car project.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/430c1cc9f8753e94ae67d61b72662ae0/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*BcEYV8hU3VpX0z1VvYvqrw.jpeg"></article>]]></description>
@@ -64,18 +64,18 @@
             <pubDate>Tue, 27 Dec 2016 06:24:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Microsoft India launches global research group to develop AI-powered eye care]]></title>
+            <description><![CDATA[<article><h1>Microsoft India launches global research group to develop AI-powered eye care</h1><p>Microsoft India is launching a research group that will leverage artificial intelligence to deliver large-scale eye care in collaboration with Hyderabad-based L V Prasad Eye Institute.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8cedf8b5438f60d4439a8e923801db3d/noop.jpg?input=http%3A%2F%2Fwww.mobihealthnews.com%2Fsites%2Fdefault%2Ffiles%2Feye.jpg"></article>]]></description>
+            <link>http://www.mobihealthnews.com/content/microsoft-india-launches-global-research-group-develop-ai-powered-eye-care</link>
+            <guid isPermaLink="false">54b8a4c3-379c-4140-8216-a61d1a061901</guid>
+            <pubDate>Tue, 27 Dec 2016 06:25:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Building more accessible technology]]></title>
             <description><![CDATA[<article><h1>Building more accessible technology</h1><p>Every Chromebook comes with a built-in screen reader called ChromeVox, which enables people with visual impairments to navigate the screen using text to speech software. Our newest version, ChromeVox Next Beta, includes a simplified keyboard shortcut model, a new caption panel to display speech and Braille output, and a new set of navigation sounds.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c30c967c75834e8a06c59be114488444/noop.png?input=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fstatic%2Fblog%2Fimages%2Fgoogle-200x200.7714256da16f.png"></article>]]></description>
             <link>https://blog.google/products/android/building-more-accessible-technology/</link>
             <guid isPermaLink="false">d68cf280-3a58-458b-a889-fc3216cc6365</guid>
-            <pubDate>Tue, 27 Dec 2016 06:24:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IBMVoice: Age Matters: How To Prepare For A Billion People Over The Age Of 65 In The U.S.]]></title>
-            <description><![CDATA[<article><h1>IBMVoice: Age Matters: How To Prepare For A Billion People Over The Age Of 65 In The U.S.</h1><p>Within the next 15 years, the world will have close to a billion people over the age of 65, and for the first time in human history, people aged 65 and over will outnumber children under age 5 sometime before 2020.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d98202883f5a731d9dbbfb5e89b20d46/noop.jpg?input=http%3A%2F%2Fblogs-images.forbes.com%2Fibm%2Ffiles%2F2016%2F12%2Faging.jpg%3Fwidth%3D640%26height%3D434"></article>]]></description>
-            <link>http://www.forbes.com/sites/ibm/2016/12/08/age-matters-how-to-prepare-for-a-billion-people-over-the-age-of-65-in-the-u-s/#4a102ef66996</link>
-            <guid isPermaLink="false">6feae795-2c35-49bf-8fbd-e7c9ecc85eb0</guid>
-            <pubDate>Tue, 27 Dec 2016 06:24:20 GMT</pubDate>
+            <pubDate>Tue, 27 Dec 2016 06:25:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
