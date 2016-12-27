@@ -45,8 +45,8 @@ app_links:
 isBasedOnUrl: >-
   http://www.thehindubusinessline.com/info-tech/digital-accessibility-helps-diverse-users-participants-at-iimb-meet/article9436598.ece
 title: 'Digital accessibility helps diverse users: participants at IIM-B meet'
-datePublished: '2016-12-27T06:28:13.744Z'
-dateModified: '2016-12-27T06:28:06.974Z'
+datePublished: '2016-12-27T06:30:29.553Z'
+dateModified: '2016-12-27T06:30:25.190Z'
 via: {}
 inFeed: true
 sourcePath: >-
