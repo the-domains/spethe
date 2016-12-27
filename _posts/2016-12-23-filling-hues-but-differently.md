@@ -29,8 +29,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.stories.spethe.com/lifestyle/filling-hues-but-differently/'
 title: Filling Hues But Differently
-datePublished: '2016-12-27T04:46:11.757Z'
-dateModified: '2016-12-27T04:46:00.624Z'
+datePublished: '2016-12-27T04:56:51.573Z'
+dateModified: '2016-12-27T04:56:47.278Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-23-filling-hues-but-differently.md
