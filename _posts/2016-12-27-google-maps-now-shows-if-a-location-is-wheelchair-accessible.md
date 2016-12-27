@@ -27,14 +27,14 @@ app_links: []
 isBasedOnUrl: >-
   http://www.theverge.com/2016/12/15/13968054/google-maps-twenty-percent-wheelchair-accessible
 title: Google Maps now shows if a location is wheelchair accessible
-datePublished: '2016-12-27T06:00:18.719Z'
-dateModified: '2016-12-27T05:59:10.186Z'
-datePublishedOriginal: '2016-12-27T06:00:18.719Z'
+datePublished: '2016-12-27T06:28:13.764Z'
+dateModified: '2016-12-27T06:28:06.974Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2016-12-27-google-maps-now-shows-if-a-location-is-wheelchair-accessible.md
+starred: false
+datePublishedOriginal: '2016-12-27T06:00:18.719Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
