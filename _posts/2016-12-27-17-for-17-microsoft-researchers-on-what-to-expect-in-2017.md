@@ -32,13 +32,13 @@ isBasedOnUrl: 'https://t.co/xvC7eEvPoL'
 title: >-
   17 for '17: Microsoft researchers on what to expect in 2017 and 2027 - Next at
   Microsoft
-datePublished: '2016-12-27T17:05:44.695Z'
-dateModified: '2016-12-27T17:05:33.195Z'
-datePublishedOriginal: '2016-12-27T17:05:44.695Z'
+datePublished: '2016-12-27T17:06:50.443Z'
+dateModified: '2016-12-27T17:06:46.522Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-27-17-for-17-microsoft-researchers-on-what-to-expect-in-2017.md
+starred: false
+datePublishedOriginal: '2016-12-27T17:05:44.695Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
