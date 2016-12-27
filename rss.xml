@@ -4,9 +4,9 @@
         <description><![CDATA[Hand-picked content on Accessibility & Assistive Technologies from across the world]]></description>
         <link>http://spethe.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Dec 2016 19:42:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2016 19:44:40 GMT</lastBuildDate>
         <atom:link href="http://spethe.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Dec 2016 19:42:47 GMT</pubDate>
+        <pubDate>Tue, 27 Dec 2016 19:44:35 GMT</pubDate>
         <item>
             <title><![CDATA[17 for '17: Microsoft researchers on what to expect in 2017 and 2027 - Next at Microsoft]]></title>
             <description><![CDATA[<article><h1>17 for '17: Microsoft researchers on what to expect in 2017 and 2027 - Next at Microsoft</h1><p>This week we are celebrating Computer Science Education Week around the globe. In this "age of acceleration," in which advances in technology and the globalization of business are transforming entire industries and society itself, it's more critical than ever for everyone to be digitally literate, especially our kids.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0d2fc4eec37ce95f0e748253e79de768/noop.jpg?input=https%3A%2F%2Fmscorpmedia.azureedge.net%2Fmscorpmedia%2F2016%2F12%2FPredictions-MSR-Main-003.jpg"></article>]]></description>
@@ -71,11 +71,11 @@
             <pubDate>Tue, 27 Dec 2016 17:18:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Making your Android Apps More Inclusive with accessibilitools]]></title>
-            <description><![CDATA[<article><h1>Making your Android Apps More Inclusive with accessibilitools</h1><p>accessibilitools 1.4.0 was released a few weeks ago. In this post, I'll share what this small set of classes consists of and how you can use it to create more inclusive Android apps. accessibilitools is a tiny collection of utilities to help the production of accessible Android apps.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5c72b023a45c4ebada50eac20caba67f/noop.png?input=https%3A%2F%2Fwww.novoda.com%2Fblog%2Fcontent%2Fimages%2F2016%2F11%2F08-1.png"></article>]]></description>
-            <link>https://www.novoda.com/blog/accessibilitools/</link>
-            <guid isPermaLink="false">4cef70f7-4c16-4dfe-b3dd-7b0bc84dcb9a</guid>
-            <pubDate>Tue, 27 Dec 2016 17:18:03 GMT</pubDate>
+            <title><![CDATA[The Open Voice Factory]]></title>
+            <description><![CDATA[<article><h1>The Open Voice Factory</h1><p>Free software that helps give a voice to people with communication difficulties. AzuleJoe displays a set of icons that represent words, which a user can look through to find the word they want to express and, once selected, their device will say this word for them.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f006528b9e481b10cfdaacf59ac36602/noop.jpg?input=http%3A%2F%2Fwww.nesta.org.uk%2Fsites%2Fdefault%2Ffiles%2Fazulejoe_6_1950_x_670_px_-_header.jpg"></article>]]></description>
+            <link>http://www.nesta.org.uk/inclusive-technology-prize-finalists/Open-Voice-Factory</link>
+            <guid isPermaLink="false">ca5fbaf1-977f-4166-9c88-42dbd7d29ac3</guid>
+            <pubDate>Tue, 27 Dec 2016 19:44:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
