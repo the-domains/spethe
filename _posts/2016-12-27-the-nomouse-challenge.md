@@ -24,13 +24,13 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://t.co/l9coMtDhzY'
 title: 'The #NoMouse Challenge'
-datePublished: '2016-12-27T05:51:58.020Z'
-dateModified: '2016-12-27T05:51:25.729Z'
-datePublishedOriginal: '2016-12-27T05:51:58.020Z'
+datePublished: '2016-12-27T16:03:15.581Z'
+dateModified: '2016-12-27T16:03:11.000Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-27-the-nomouse-challenge.md
+starred: false
+datePublishedOriginal: '2016-12-27T05:51:58.020Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
