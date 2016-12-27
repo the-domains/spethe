@@ -28,13 +28,13 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://now.uiowa.edu/2016/11/ui-tops-in-university-website-accessibility'
 title: UI earns No. 1 ranking in university website accessibility
-datePublished: '2016-12-27T06:03:48.734Z'
-dateModified: '2016-12-27T06:03:30.383Z'
-datePublishedOriginal: '2016-12-27T06:03:48.734Z'
+datePublished: '2016-12-27T06:28:13.827Z'
+dateModified: '2016-12-27T06:28:06.974Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-27-ui-earns-no-1-ranking-in-university-website-accessibility.md
+starred: false
+datePublishedOriginal: '2016-12-27T06:03:48.734Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
