@@ -29,8 +29,8 @@ isBasedOnUrl: >-
 title: >-
   Anyone can do it! Easy ways to evaluate your App's Accessibility - Google I/O
   Schedule
-datePublished: '2016-12-27T06:40:17.017Z'
-dateModified: '2016-12-27T06:40:10.870Z'
+datePublished: '2016-12-27T06:45:49.075Z'
+dateModified: '2016-12-27T06:45:40.801Z'
 via: {}
 inFeed: true
 sourcePath: >-
