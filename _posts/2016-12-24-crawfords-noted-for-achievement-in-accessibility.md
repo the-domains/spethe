@@ -33,8 +33,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.northumberlandtoday.com/2016/12/22/crawfords-noted-for-achievement-in-accessibility
 title: Crawford's noted for achievement in accessibility
-datePublished: '2016-12-27T04:33:35.132Z'
-dateModified: '2016-12-27T04:33:25.811Z'
+datePublished: '2016-12-27T04:46:11.693Z'
+dateModified: '2016-12-27T04:46:00.624Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-24-crawfords-noted-for-achievement-in-accessibility.md
