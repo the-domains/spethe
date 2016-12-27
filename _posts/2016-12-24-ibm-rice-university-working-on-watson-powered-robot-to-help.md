@@ -28,8 +28,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.healthcareitnews.com/news/ibm-rice-university-working-watson-powered-robot-help-elderly?platform=hootsuite
 title: 'IBM, Rice University working on Watson-powered robot to help elderly'
-datePublished: '2016-12-27T06:40:16.994Z'
-dateModified: '2016-12-27T06:40:10.870Z'
+datePublished: '2016-12-27T06:43:28.178Z'
+dateModified: '2016-12-27T06:43:24.349Z'
 via: {}
 inFeed: true
 sourcePath: >-
