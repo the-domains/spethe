@@ -30,8 +30,8 @@ app_links: []
 isBasedOnUrl: >-
   http://mashable.com/2016/12/14/ibm-watson-als-research/#.cDcB9h0gGqa?platform=hootsuite
 title: IBM's Watson supercomputer discovers 5 new genes linked to ALS
-datePublished: '2016-12-27T06:49:11.900Z'
-dateModified: '2016-12-27T06:49:05.810Z'
+datePublished: '2016-12-27T17:06:50.792Z'
+dateModified: '2016-12-27T17:06:46.522Z'
 via: {}
 inFeed: true
 sourcePath: >-
