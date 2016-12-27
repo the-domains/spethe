@@ -28,8 +28,8 @@ app_links:
 isBasedOnUrl: >-
   https://play.google.com/store/apps/details?id=com.googlecode.eyesfree.brailleback
 title: Google BrailleBack - Android Apps on Google Play
-datePublished: '2016-12-27T06:49:11.919Z'
-dateModified: '2016-12-27T06:49:05.810Z'
+datePublished: '2016-12-27T16:03:15.571Z'
+dateModified: '2016-12-27T16:03:11.000Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-24-google-brailleback-android-apps-on-google-play.md
