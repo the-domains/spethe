@@ -29,8 +29,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.euractiv.com/section/social-europe-jobs/opinion/better-accessibility-is-good-for-consumers-and-businesses/
 title: Better accessibility is good for consumers and businesses
-datePublished: '2016-12-27T16:03:15.570Z'
-dateModified: '2016-12-27T16:03:11.000Z'
+datePublished: '2016-12-27T17:06:50.715Z'
+dateModified: '2016-12-27T17:06:46.522Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-27-better-accessibility-is-good-for-consumers-and-businesses.md
