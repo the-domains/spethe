@@ -27,8 +27,8 @@ isBasedOnUrl: 'https://blog.google/topics/google-org/creating-world-that-works-f
 title: >-
   Creating a world that works for everyone with Google Impact Challenge:
   Disabilities
-datePublished: '2016-12-27T06:40:17.017Z'
-dateModified: '2016-12-27T06:40:10.870Z'
+datePublished: '2016-12-27T06:43:28.298Z'
+dateModified: '2016-12-27T06:43:24.349Z'
 via: {}
 inFeed: true
 sourcePath: >-
