@@ -29,8 +29,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.stories.spethe.com/vision/following-dreams-blindly/'
 title: 'Following Dreams, Blindly'
-datePublished: '2016-12-27T04:49:41.488Z'
-dateModified: '2016-12-27T04:49:37.153Z'
+datePublished: '2016-12-27T04:56:51.571Z'
+dateModified: '2016-12-27T04:56:47.278Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-23-following-dreams-blindly.md
