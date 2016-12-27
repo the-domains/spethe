@@ -30,8 +30,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.disabilityscoop.com/2016/12/14/improved-airline-accessibility/23130/
 title: Improved Airline Accessibility In The Works
-datePublished: '2016-12-27T16:03:15.581Z'
-dateModified: '2016-12-27T16:03:11.000Z'
+datePublished: '2016-12-27T17:06:50.852Z'
+dateModified: '2016-12-27T17:06:46.522Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-24-improved-airline-accessibility-in-the-works.md
