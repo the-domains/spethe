@@ -36,8 +36,8 @@ isBasedOnUrl: >-
 title: >-
   Accessible eLearning Benefits All Learners by Pamela S. Hogle : Learning
   Solutions Magazine
-datePublished: '2016-12-27T06:23:37.067Z'
-dateModified: '2016-12-27T06:23:32.398Z'
+datePublished: '2016-12-27T06:26:01.965Z'
+dateModified: '2016-12-27T06:25:56.812Z'
 via: {}
 inFeed: true
 sourcePath: >-
