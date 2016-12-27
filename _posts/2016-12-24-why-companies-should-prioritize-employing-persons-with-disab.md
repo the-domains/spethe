@@ -31,8 +31,8 @@ app_links: []
 isBasedOnUrl: >-
   https://blog.ibm.jobs/2016/12/02/international-day-of-persons-with-disabilities-why-companies-should-prioritize-employing-pwds/?platform=hootsuite
 title: Why Companies Should Prioritize Employing Persons with Disabilities
-datePublished: '2016-12-27T06:26:01.930Z'
-dateModified: '2016-12-27T06:25:56.812Z'
+datePublished: '2016-12-27T06:28:13.746Z'
+dateModified: '2016-12-27T06:28:06.974Z'
 via: {}
 inFeed: true
 sourcePath: >-
