@@ -28,8 +28,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.disabilityscoop.com/2016/12/09/autism-tracking-device-bill-house/23109/
 title: Autism Tracking Device Bill Clears House
-datePublished: '2016-12-27T06:45:49.088Z'
-dateModified: '2016-12-27T06:45:40.801Z'
+datePublished: '2016-12-27T06:49:11.966Z'
+dateModified: '2016-12-27T06:49:05.810Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-24-autism-tracking-device-bill-clears-house.md
