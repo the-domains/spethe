@@ -49,8 +49,8 @@ app_links:
     type: android
 isBasedOnUrl: 'http://www.nytimes.com/2012/12/02/magazine/the-autism-advantage.html'
 title: The Autism Advantage
-datePublished: '2016-12-24T15:06:58.182Z'
-dateModified: '2016-12-24T15:06:49.298Z'
+datePublished: '2016-12-27T04:22:18.088Z'
+dateModified: '2016-12-27T04:22:11.070Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-24-the-autism-advantage.md
