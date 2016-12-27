@@ -31,8 +31,8 @@ app_links: []
 isBasedOnUrl: >-
   http://qa-financial.com/news/features-interviews/eu-ready-set-laws-accessibility-testing/?platform=hootsuite
 title: EU ready to set laws for accessibility testing | QA Financial
-datePublished: '2016-12-27T04:59:45.179Z'
-dateModified: '2016-12-27T04:59:43.124Z'
+datePublished: '2016-12-27T06:23:37.078Z'
+dateModified: '2016-12-27T06:23:32.398Z'
 via: {}
 inFeed: true
 sourcePath: >-
