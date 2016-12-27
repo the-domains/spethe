@@ -30,8 +30,8 @@ app_links: []
 isBasedOnUrl: >-
   http://mashable.com/2016/12/19/microsoft-machine-learning-artificial-intelligence-blindness-india/?platform=hootsuite
 title: Microsoft is using machine learning to help fight blindness
-datePublished: '2016-12-27T04:22:18.098Z'
-dateModified: '2016-12-27T04:22:11.070Z'
+datePublished: '2016-12-27T04:33:35.156Z'
+dateModified: '2016-12-27T04:33:25.811Z'
 via: {}
 inFeed: true
 sourcePath: >-
