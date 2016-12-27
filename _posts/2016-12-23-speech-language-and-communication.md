@@ -29,8 +29,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.stories.spethe.com/speech-therapy/speech-language-communication/'
 title: Speech Language & Communication
-datePublished: '2016-12-27T04:49:41.472Z'
-dateModified: '2016-12-27T04:49:37.153Z'
+datePublished: '2016-12-27T04:56:51.321Z'
+dateModified: '2016-12-27T04:56:47.278Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-23-speech-language-and-communication.md
