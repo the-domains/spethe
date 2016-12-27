@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://t.co/pEgtXK8sKO'
 title: 2017 UX Industry Study | Loop11
-datePublished: '2016-12-27T16:03:15.587Z'
-dateModified: '2016-12-27T16:03:11.000Z'
+datePublished: '2016-12-27T17:06:50.851Z'
+dateModified: '2016-12-27T17:06:46.522Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-27-2017-ux-industry-study-or-loop11.md
