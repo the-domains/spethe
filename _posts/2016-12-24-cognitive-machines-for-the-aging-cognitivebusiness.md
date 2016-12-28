@@ -57,8 +57,8 @@ app_links:
 isBasedOnUrl: >-
   https://medium.com/cognitivebusiness/cognitive-machines-for-the-aging-aa3ba70bf57a#.4t4qx8y89
 title: Cognitive machines for the aging - CognitiveBusiness
-datePublished: '2016-12-27T19:44:05.399Z'
-dateModified: '2016-12-27T19:44:00.308Z'
+datePublished: '2016-12-28T05:15:11.541Z'
+dateModified: '2016-12-28T05:15:09.714Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-24-cognitive-machines-for-the-aging-cognitivebusiness.md
