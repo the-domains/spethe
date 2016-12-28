@@ -26,13 +26,13 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://t.co/rJieb4h6fx'
 title: 4 reasons why an accessible website is a win-win
-datePublished: '2016-12-28T05:32:30.659Z'
-dateModified: '2016-12-28T05:31:10.748Z'
-datePublishedOriginal: '2016-12-28T05:32:30.659Z'
+datePublished: '2016-12-28T05:33:31.526Z'
+dateModified: '2016-12-28T05:33:29.651Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-28-4-reasons-why-an-accessible-website-is-a-win-win.md
+starred: false
+datePublishedOriginal: '2016-12-28T05:32:30.659Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
