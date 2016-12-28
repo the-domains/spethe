@@ -32,8 +32,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.linkedin.com/pulse/improving-human-computer-interfaces-boost-andrew-b-johnson?trk=prof-post
 title: Improving human computer interfaces boost IT accessibility
-datePublished: '2016-12-28T05:33:31.569Z'
-dateModified: '2016-12-28T05:33:29.651Z'
+datePublished: '2016-12-28T18:33:04.074Z'
+dateModified: '2016-12-28T18:33:01.203Z'
 via: {}
 inFeed: true
 sourcePath: >-
