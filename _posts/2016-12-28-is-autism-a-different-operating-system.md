@@ -25,13 +25,13 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://shar.es/1D4qfn'
 title: Is autism a different operating system?
-datePublished: '2016-12-28T05:12:53.007Z'
-dateModified: '2016-12-28T05:12:27.791Z'
-datePublishedOriginal: '2016-12-28T05:12:53.007Z'
+datePublished: '2016-12-28T05:15:11.609Z'
+dateModified: '2016-12-28T05:15:09.714Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-28-is-autism-a-different-operating-system.md
+starred: false
+datePublishedOriginal: '2016-12-28T05:12:53.007Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
