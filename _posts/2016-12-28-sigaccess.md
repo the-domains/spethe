@@ -34,13 +34,13 @@ app_links: []
 isBasedOnUrl: >-
   http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-writing-guide/
 title: SIGACCESS
-datePublished: '2016-12-28T08:28:33.755Z'
-dateModified: '2016-12-28T08:28:30.518Z'
-datePublishedOriginal: '2016-12-28T08:28:33.755Z'
+datePublished: '2016-12-28T18:33:04.001Z'
+dateModified: '2016-12-28T18:33:01.203Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-28-sigaccess.md
+starred: false
+datePublishedOriginal: '2016-12-28T08:28:33.755Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
