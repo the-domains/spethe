@@ -24,8 +24,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://t.co/l9coMtDhzY'
 title: 'The #NoMouse Challenge'
-datePublished: '2016-12-28T18:43:00.340Z'
-dateModified: '2016-12-28T18:42:53.320Z'
+datePublished: '2016-12-30T05:06:20.452Z'
+dateModified: '2016-12-30T05:06:15.884Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-27-the-nomouse-challenge.md
