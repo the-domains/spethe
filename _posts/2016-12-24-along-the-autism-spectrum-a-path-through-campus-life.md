@@ -54,8 +54,8 @@ app_links:
     type: android
 isBasedOnUrl: 'http://www.nytimes.com/2016/11/20/health/autism-spectrum-college.html?_r=0'
 title: 'Along the Autism Spectrum, a Path Through Campus Life'
-datePublished: '2016-12-28T18:43:00.332Z'
-dateModified: '2016-12-28T18:42:53.320Z'
+datePublished: '2016-12-30T05:06:20.445Z'
+dateModified: '2016-12-30T05:06:15.884Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-24-along-the-autism-spectrum-a-path-through-campus-life.md
