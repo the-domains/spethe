@@ -27,8 +27,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.nesta.org.uk/inclusive-technology-prize-finalists/Open-Voice-Factory
 title: The Open Voice Factory
-datePublished: '2016-12-28T18:43:00.226Z'
-dateModified: '2016-12-28T18:42:53.320Z'
+datePublished: '2016-12-30T05:06:20.452Z'
+dateModified: '2016-12-30T05:06:15.884Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-27-the-open-voice-factory.md
