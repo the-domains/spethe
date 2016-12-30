@@ -39,8 +39,8 @@ isBasedOnUrl: >-
 title: >-
   Microsoft partners NGO Tamana to promote I-T based opportunities to autistic
   kids
-datePublished: '2016-12-28T18:43:00.341Z'
-dateModified: '2016-12-28T18:42:53.320Z'
+datePublished: '2016-12-30T05:06:20.453Z'
+dateModified: '2016-12-30T05:06:15.884Z'
 via: {}
 inFeed: true
 sourcePath: >-
