@@ -30,8 +30,8 @@ app_links: []
 isBasedOnUrl: >-
   http://blogs.worldbank.org/sustainablecities/what-new-urban-agenda-tells-us-about-building-inclusive-cities?utm_content=bufferc534d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 title: What the New Urban Agenda tells us about building inclusive cities
-datePublished: '2017-01-03T17:18:41.995Z'
-dateModified: '2017-01-03T17:18:35.587Z'
+datePublished: '2017-01-03T18:23:34.699Z'
+dateModified: '2017-01-03T18:23:22.032Z'
 via: {}
 inFeed: true
 sourcePath: >-
