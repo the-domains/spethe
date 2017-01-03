@@ -31,8 +31,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.independent.co.uk/life-style/gadgets-and-tech/features/apple-iphone-ipad-accessibility-macbook-pro-mac-disability-apple-watch-a7492226.html
 title: Apple's newest feature is something you've probably never thought about before
-datePublished: '2016-12-30T05:06:20.349Z'
-dateModified: '2016-12-30T05:06:15.884Z'
+datePublished: '2017-01-03T17:18:42.056Z'
+dateModified: '2017-01-03T17:18:35.587Z'
 via: {}
 inFeed: true
 sourcePath: >-
