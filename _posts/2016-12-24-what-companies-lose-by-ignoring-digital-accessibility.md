@@ -31,8 +31,8 @@ app_links: []
 isBasedOnUrl: >-
   http://data-informed.com/what-companies-lose-by-ignoring-digital-accessibility/
 title: What Companies Lose by Ignoring Digital Accessibility
-datePublished: '2016-12-30T05:06:20.435Z'
-dateModified: '2016-12-30T05:06:15.884Z'
+datePublished: '2017-01-03T17:18:42.024Z'
+dateModified: '2017-01-03T17:18:35.587Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-24-what-companies-lose-by-ignoring-digital-accessibility.md
