@@ -29,8 +29,8 @@ isBasedOnUrl: >-
 title: >-
   Here's How Hospitals Are Trying to Improve Accessibility for Visually Impaired
   Patients
-datePublished: '2017-01-03T17:18:41.979Z'
-dateModified: '2017-01-03T17:18:35.587Z'
+datePublished: '2017-01-03T18:23:34.765Z'
+dateModified: '2017-01-03T18:23:22.032Z'
 via: {}
 inFeed: true
 sourcePath: >-
