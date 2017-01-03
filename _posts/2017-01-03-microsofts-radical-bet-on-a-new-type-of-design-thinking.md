@@ -26,13 +26,13 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://t.co/yqTPpSiTAI'
 title: Microsoft's Radical Bet On A New Type Of Design Thinking
-datePublished: '2017-01-03T18:21:10.157Z'
-dateModified: '2017-01-03T18:21:03.813Z'
-datePublishedOriginal: '2017-01-03T18:21:10.157Z'
+datePublished: '2017-01-03T18:23:34.729Z'
+dateModified: '2017-01-03T18:23:22.032Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-01-03-microsofts-radical-bet-on-a-new-type-of-design-thinking.md
+starred: false
+datePublishedOriginal: '2017-01-03T18:21:10.157Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
