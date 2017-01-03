@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www-03.ibm.com/able/aging/index.html'
 title: IBM Accessibility - Aging
-datePublished: '2017-01-03T17:18:42.025Z'
-dateModified: '2017-01-03T17:18:35.587Z'
+datePublished: '2017-01-03T18:23:34.789Z'
+dateModified: '2017-01-03T18:23:22.032Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-24-ibm-accessibility-aging.md
