@@ -15,13 +15,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://www.bbc.com/news/magazine-38208814'
 title: The invention that helped me write again - BBC News
-datePublished: '2017-01-03T17:17:46.852Z'
-dateModified: '2017-01-03T17:16:59.871Z'
-datePublishedOriginal: '2017-01-03T17:17:46.852Z'
+datePublished: '2017-01-03T17:18:41.960Z'
+dateModified: '2017-01-03T17:18:35.587Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-01-03-the-invention-that-helped-me-write-again-bbc-news.md
+starred: false
+datePublishedOriginal: '2017-01-03T17:17:46.852Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
