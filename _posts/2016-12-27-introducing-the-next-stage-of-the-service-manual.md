@@ -33,8 +33,8 @@ app_links: []
 isBasedOnUrl: >-
   https://gds.blog.gov.uk/2016/12/19/introducing-the-next-stage-of-the-service-manual/
 title: Introducing the next stage of the Service Manual
-datePublished: '2016-12-30T05:06:20.451Z'
-dateModified: '2016-12-30T05:06:15.884Z'
+datePublished: '2017-01-03T17:18:42.066Z'
+dateModified: '2017-01-03T17:18:35.587Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-27-introducing-the-next-stage-of-the-service-manual.md
