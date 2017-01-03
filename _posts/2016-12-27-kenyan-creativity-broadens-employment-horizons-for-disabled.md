@@ -62,8 +62,8 @@ isBasedOnUrl: >-
 title: >-
   Kenyan creativity broadens employment horizons for disabled people | Kate
   Hodal
-datePublished: '2016-12-30T05:06:53.441Z'
-dateModified: '2016-12-30T05:06:50.077Z'
+datePublished: '2017-01-03T18:23:34.691Z'
+dateModified: '2017-01-03T18:23:22.032Z'
 via: {}
 inFeed: true
 sourcePath: >-
