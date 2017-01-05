@@ -26,8 +26,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://t.co/rJieb4h6fx'
 title: 4 reasons why an accessible website is a win-win
-datePublished: '2017-01-03T18:23:34.711Z'
-dateModified: '2017-01-03T18:23:22.032Z'
+datePublished: '2017-01-05T09:55:15.759Z'
+dateModified: '2017-01-05T09:55:07.633Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-28-4-reasons-why-an-accessible-website-is-a-win-win.md
