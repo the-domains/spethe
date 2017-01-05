@@ -27,8 +27,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.ft.com/content/5278fad2-a061-11e6-891e-abe238dee8e2?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev
 title: How to lift barriers for disabled employees
-datePublished: '2017-01-03T18:23:34.711Z'
-dateModified: '2017-01-03T18:23:22.032Z'
+datePublished: '2017-01-05T09:55:15.689Z'
+dateModified: '2017-01-05T09:55:07.633Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-24-how-to-lift-barriers-for-disabled-employees.md
